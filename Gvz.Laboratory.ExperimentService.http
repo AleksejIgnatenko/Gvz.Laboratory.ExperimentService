@@ -1,0 +1,6 @@
+@Gvz.Laboratory.ExperimentService_HostAddress = http://localhost:5151
+
+GET {{Gvz.Laboratory.ExperimentService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
